@@ -43,7 +43,8 @@ Other GPIOs
 ![Easy LoRa tracker - Compilation](https://user-images.githubusercontent.com/29994971/104406345-af06a800-5591-11eb-9424-496a6c1f9ca7.png)
 
 ## 2.3 Sample codes
-* Test code: https://github.com/IoTThinks/EasyLoRaNode_Tracker/tree/main/EasyLoRaMiniNodeTest-Batch1
+* Test code for receiver: https://github.com/IoTThinks/EasyLoRaNode_Tracker/tree/main/ESP32SimpleReceiver_920Mhz
+* Test code for sender: https://github.com/IoTThinks/EasyLoRaNode_Tracker/tree/main/EasyLoRaMiniNodeTest-Batch1
 
 ## 2.4 LoRa
 
