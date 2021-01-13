@@ -89,8 +89,8 @@ To use VOM to measure current directly from the Lipo battery to Vin GPIO or batt
 * To use as short wire as possible
 * The voltage may drop.
 
-
 To wait until the node goes into deepsleep
+
 ![Measure current](https://user-images.githubusercontent.com/29994971/104408437-9cdb3880-5596-11eb-84f0-ac72870dbbd0.png)
 
 
@@ -101,9 +101,11 @@ TO SOLDER THE BATTERY TO BATTERY PADS FIRST
 ![Solder battery](https://user-images.githubusercontent.com/29994971/104408136-fc851400-5595-11eb-843a-d80d3438c0f9.png)
 
 
-To put batter on the bottom
+To put battery on the bottom
+
 ![Put in battery](https://user-images.githubusercontent.com/29994971/104408001-8a143400-5595-11eb-80cd-c3cd70913f01.png)
 
 To put in board
+
 ![Put in board](https://user-images.githubusercontent.com/29994971/104407954-6cdf6580-5595-11eb-9217-b58fcb6269d6.png)
 
