@@ -69,10 +69,23 @@ To connect the battery and plug the USB jack into 5v USB
 * It takes around 2 hours to fully charge
 
 ### 2.5.4 Battery protection
+Over-charging protection
+* The node has IC to limit the charge to 4.2v.
+
+Under-discharge protection
+* The node has no IC to prevent under-discharge.
+* The Lipo battery must have  protection circuit.
 
 ### 2.5.5 Measure battery voltage
+Sample code to measure battery voltage is in https://github.com/IoTThinks/EasyLoRaNode_Tracker/blob/main/EasyLoRaMiniNodeTest-Batch1/55_battery.ino
+* If the USB or VIN is connected, the voltage may be read over 4.2v.
+* Accuracy is around +/- 0.1v
+
+![Battery Meter](https://user-images.githubusercontent.com/29994971/104407715-d7dc6c80-5594-11eb-9f32-8be8d52db625.png)
+
 
 ### 2.5.6 Measure battery current during deepsleep
 
 
 ## 2.6 Assemble everything
+TBD.
