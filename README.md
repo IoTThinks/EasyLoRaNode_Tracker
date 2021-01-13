@@ -46,10 +46,17 @@ Other GPIOs
 * Test code for receiver: https://github.com/IoTThinks/EasyLoRaNode_Tracker/tree/main/ESP32SimpleReceiver_920Mhz
 * Test code for sender: https://github.com/IoTThinks/EasyLoRaNode_Tracker/tree/main/EasyLoRaMiniNodeTest-Batch1
 
-## 2.4 LoRa
+## 2.4 LoRa Power
+To turn on/off LoRa power
+* Be sure LoRa power is on before sending LoRa messages
+* To turn off LoRa power if not in use or in deep sleep to save power.
+![LoRa Power](https://user-images.githubusercontent.com/29994971/104407327-ed9d6200-5593-11eb-9511-557aa6ae8a1b.png)
+
 
 ## 2.5 Battery
 ### 2.5.1 No battery
+The node can be powered via usb port 5v or Vin (3.6v-5v)
+* The charge LED will be blinked.
 
 ### 2.5.2 Connect battery
 Recommended battery:
@@ -57,10 +64,15 @@ Recommended battery:
 * 18650 battery is NOT recommended as it does not have under-voltage protection.
 
 ### 2.5.3 Charge battery
+To connect the battery and plug the USB jack into 5v USB
+* You can still use the node during the charging
+* It takes around 2 hours to fully charge
 
-### 2.5.4 Measure battery voltage
+### 2.5.4 Battery protection
 
-### 2.5.5 Measure battery current during deepsleep
+### 2.5.5 Measure battery voltage
+
+### 2.5.6 Measure battery current during deepsleep
 
 
 ## 2.6 Assemble everything
