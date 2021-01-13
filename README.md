@@ -85,7 +85,19 @@ Sample code to measure battery voltage is in https://github.com/IoTThinks/EasyLo
 
 
 ### 2.5.6 Measure battery current during deepsleep
-
+To use VOM to measure current directly from the Lipo battery to Vin GPIO or battery pins.
+* To use as short wire as possible
+* The voltage may drop.
 
 ## 2.6 Assemble everything
-TBD.
+TO SOLDER THE BATTERY TO BATTERY PADS FIRST
+* WRONG +/- WILL KILL THE BOARD
+![Solder battery](https://user-images.githubusercontent.com/29994971/104408136-fc851400-5595-11eb-843a-d80d3438c0f9.png)
+
+
+To put batter on the bottom
+![Put in battery](https://user-images.githubusercontent.com/29994971/104408001-8a143400-5595-11eb-80cd-c3cd70913f01.png)
+
+To put in board
+![Put in board](https://user-images.githubusercontent.com/29994971/104407954-6cdf6580-5595-11eb-9217-b58fcb6269d6.png)
+
