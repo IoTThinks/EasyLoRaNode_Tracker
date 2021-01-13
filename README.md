@@ -1,5 +1,5 @@
 # Easy LoRa Node - Tracker
-A wearable LoRa node with battery with deepsleep less than 15uA.
+A wearable LoRa node with battery and less than 15uA deepsleep.
 
 # 1. Specifications
 ## 1.1 Overview
