@@ -36,7 +36,7 @@ Other GPIOs
 
 ## 2.2 Upload sketch
 * To install UART driver for CP2012: https://github.com/IoTThinks/EasyLoRaGateway_v2.1/wiki/Install-USB-UART-driver
-* To install Arduino IDE:
+* To install Arduino IDE: https://www.arduino.cc/en/software
 * To install ESP32 for Arduino IDE: https://github.com/IoTThinks/EasyLoRaGateway_v2.1/wiki/Setup-Arduino-IDE-and-ESP32
 * To install LoRa library: https://github.com/sandeepmistry/arduino-LoRa
 
