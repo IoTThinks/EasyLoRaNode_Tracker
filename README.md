@@ -34,6 +34,13 @@ Other GPIOs
 * Connect directly to ESP32-Pico-D4: https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf
 
 ## 2.2 Upload sketch
+* To install UART driver for CP2012: https://github.com/IoTThinks/EasyLoRaGateway_v2.1/wiki/Install-USB-UART-driver
+* To install Arduino IDE:
+* To install ESP32 for Arduino IDE: https://github.com/IoTThinks/EasyLoRaGateway_v2.1/wiki/Setup-Arduino-IDE-and-ESP32
+* To install LoRa library: https://github.com/sandeepmistry/arduino-LoRa
+
+![Easy LoRa tracker - Compilation](https://user-images.githubusercontent.com/29994971/104406345-af06a800-5591-11eb-9424-496a6c1f9ca7.png)
+
 
 ## 2.3 LoRa
 
