@@ -50,7 +50,7 @@ Other GPIOs
 ### 2.4.2 Connect battery
 Recommended battery:
 * Lipo battery 4.2v with under-voltage protection is recommended. 
-* **18650 battery is not recommended as it does not have under-voltage protection.
+* 18650 battery is NOT recommended as it does not have under-voltage protection.
 
 ### 2.4.3 Charge battery
 
