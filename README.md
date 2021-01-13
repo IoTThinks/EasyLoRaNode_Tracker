@@ -6,7 +6,8 @@ A wearable LoRa node with battery with deepsleep less than 15uA.
 ![Easy LoRa Tracker - Overview](https://user-images.githubusercontent.com/29994971/104403543-516f5d00-558b-11eb-9928-45658bd5ce4e.jpg)
 
 ## 1.2 Components
-![Easy LoRa Tracker - Components](https://user-images.githubusercontent.com/29994971/104405468-98f7e800-558f-11eb-816b-1ce77bce26a2.jpg)
+![Easy LoRa Tracker - Component](https://user-images.githubusercontent.com/29994971/104406783-a9f62880-5592-11eb-8292-f9eb78175576.jpg)
+
 
 # 2. Usage guides
 ## 2.1 Pin mapping
@@ -54,6 +55,9 @@ Recommended battery:
 
 ### 2.4.3 Charge battery
 
-### 2.4.4 Measure battery
+### 2.4.4 Measure battery voltage
+
+### 2.4.4 Measure battery current during deepsleep
+
 
 ## 2.5 Assemble everything
