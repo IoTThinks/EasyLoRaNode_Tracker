@@ -1,20 +1,21 @@
 # Easy LoRa Node - Tracker
 A wearable LoRa node with battery with deepsleep less than 15uA.
 
-# Specifications
-## Overview
+# 1. Specifications
+## 1.1 Overview
+![Easy LoRa Tracker - Overview](https://user-images.githubusercontent.com/29994971/104403543-516f5d00-558b-11eb-9928-45658bd5ce4e.jpg)
 
-## Components
+## 1.2 Components
 
-# Usage guides
-## Pin mapping
+# 2. Usage guides
+## 2.1 Pin mapping
 
-## Upload sketch
+## 2.2 Upload sketch
 
-## LoRa
+## 2.3 LoRa
 
-## Battery
+## 2.4 Battery
 
-## GPIOs
+## 2.5 GPIOs
 
-## Assembly
+## 2.6 Assemble everything
