@@ -42,22 +42,24 @@ Other GPIOs
 
 ![Easy LoRa tracker - Compilation](https://user-images.githubusercontent.com/29994971/104406345-af06a800-5591-11eb-9424-496a6c1f9ca7.png)
 
+## 2.3 Sample codes
+* Test code: https://github.com/IoTThinks/EasyLoRaNode_Tracker/tree/main/EasyLoRaMiniNodeTest-Batch1
 
-## 2.3 LoRa
+## 2.4 LoRa
 
-## 2.4 Battery
-### 2.4.1 No battery
+## 2.5 Battery
+### 2.5.1 No battery
 
-### 2.4.2 Connect battery
+### 2.5.2 Connect battery
 Recommended battery:
 * Lipo battery 4.2v with under-voltage protection is recommended. 
 * 18650 battery is NOT recommended as it does not have under-voltage protection.
 
-### 2.4.3 Charge battery
+### 2.5.3 Charge battery
 
-### 2.4.4 Measure battery voltage
+### 2.5.4 Measure battery voltage
 
-### 2.4.4 Measure battery current during deepsleep
+### 2.5.5 Measure battery current during deepsleep
 
 
-## 2.5 Assemble everything
+## 2.6 Assemble everything
