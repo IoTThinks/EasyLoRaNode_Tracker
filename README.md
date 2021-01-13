@@ -46,6 +46,4 @@ Other GPIOs
 
 ## 2.4 Battery
 
-## 2.5 GPIOs
-
-## 2.6 Assemble everything
+## 2.5 Assemble everything
