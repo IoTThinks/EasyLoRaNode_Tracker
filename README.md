@@ -30,6 +30,9 @@ LoRa
 Battery
 * BAT_METER             36 // To measure battery voltage
 
+Other GPIOs
+* Connect directly to ESP32-Pico-D4: https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf
+
 ## 2.2 Upload sketch
 
 ## 2.3 LoRa
