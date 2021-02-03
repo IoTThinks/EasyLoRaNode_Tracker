@@ -11,6 +11,9 @@ A wearable LoRa node with battery and less than 15uA deepsleep.
 
 # 2. Usage guides
 ## 2.1 Pin mapping
+VIN
+* 3.6-5v only!!!
+
 LED
 * LED                   22 // LOW is off, HIGH is on.
 
