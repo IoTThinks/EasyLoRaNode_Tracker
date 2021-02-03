@@ -31,6 +31,9 @@ LoRa
 Battery
 * BAT_METER             36 // To measure battery voltage
 
+Special GPIOs
+* GPIO 16 is used by internal flash by Pico. And should not be used in program.
+
 Other GPIOs
 * Connect directly to ESP32-Pico-D4: https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf
 
