@@ -8,6 +8,9 @@ A wearable LoRa node with battery and less than 15uA deepsleep.
 ## 1.2 Components
 ![Easy LoRa Tracker - Component](https://user-images.githubusercontent.com/29994971/104406783-a9f62880-5592-11eb-8292-f9eb78175576.jpg)
 
+![image](https://user-images.githubusercontent.com/29994971/135783086-b0087e51-2b71-4b54-8009-71b9636b82dc.png)
+
+![image](https://user-images.githubusercontent.com/29994971/135783173-ebb7543c-46f0-42af-aef0-38cf6c09545e.png)
 
 # 2. Usage guides
 ## 2.1 Pin mapping
